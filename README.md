@@ -22,7 +22,7 @@ In this project, you will be cloning/re-creating three different html-layouts fr
 
 Inside each of the three folders you will find an image. That image is a representation of the layout you need to create using HTML and CSS. The 'first' folder contains an index.html and a style.css file. In the other folders, you'll need to add them yourself.
 
-## First Folder
+## `First` Folder
 
 
 
