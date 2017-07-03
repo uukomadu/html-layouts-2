@@ -1,6 +1,5 @@
 .wrapper{
   padding: 50px 30px;
-  font-family: sans-serif;
 }
 
 .top-boxes{
@@ -27,6 +26,7 @@
 }
 
 .text{
+  font-family: sans-serif;
   font-size: 30px;
   line-height: 40px;
   margin-bottom: 50px;
