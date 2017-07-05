@@ -167,8 +167,6 @@ Below are the very broad directions to finishing the clone of the image in the '
 
 ## Third
 
-
-
 ### Directions
 
 Below are the very broad directions to finishing the clone of the image in the 'third' folder. We encourage you to try to finish this project with as little help as possible. But if you need more guidance there is a 'Follow Along' section right below these directions that will be a little more in dept. Have Fun!
@@ -186,6 +184,48 @@ Below are the very broad directions to finishing the clone of the image in the '
 ### Follow Along
 
 * Open `index.html`.
+* Inside index.html, create your index.html boiler plate.
+  * solution
+* Inside index.html, link the index.html file to the style.css file.
+  * solution
+* Inside index.html, link the index.html file to the reset.css file. Make sure it comes before your style.css file.
+  * solution
+* Inside index.html, create a header and give it a class name.
+  * solution
+* Inside index.html, inside the header create two anchor tags the first should be a link to the Google home page. The second should be a link to the Apple homepage. Give both anchor tags the same class name.
+  * solution
+* Inside index.html, below the header create a main section and give it a class name so we can style it later.
+  * solution
+* Inside index.html, inside the main section create two sections one for the left side of the main section and the other for the right side of the main section. Make sure the left section comes before the right section in the html. Give them each a different class name.
+  * solution
+* Inside index.html, inside the left section create a header and insert the correct text. Give it a class name to style it later.
+  *
+* Inside index.html, inside the left section create five paragraphs and give them all the same class name.
+  * solution
+* Inside index.html, inside the right section create a div and give it a class name so we can style it later.
+  * solution
+* Inside index.html, inside the right section create two paragraphs and give them the same class name as the previous paragraphs.
+  * solution
+* Inside index.html, below the main section create a footer and give it a class name to style it later.
+  * solution
+* Open style.css
+* Inside style.css, select the header by class and give it a height, background color, padding, and font family.
+  * solution
+* Inside style.css, select the links in the header by class and give them a font color, font size, line-height, and margin. Also make the elements float to the left side of the page. Lastly remove the default text-decoration.
+  * solution
+* Inside style.css, select the main section and give it a padding, font family, a display that will let you manipulate the child elements, and a css property to space the children evenly by the space between them. HINT: We'll be using flex-box in this step.
+  * solution
+* Inside style.css, select the left section of the main and give it a width.
+  * solution
+* Inside style.css, select the right section of the main and give it a width.
+  * solution
+* Inside style.css, select the paragraph and give it a font size, and a margin to keep space between it and the elements below it.
+  * solution
+* Inside style.css, select the div in the right section and give it a width, height, background color, and a margin to keep space between it an the elements below it.
+  * solution
+* Inside style.css, select the footer by class and give it a height and a background color.
+  * solution
+* Nice! You have finished all the clones on this project!
 
 ### Solution
 

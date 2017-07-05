@@ -8,17 +8,17 @@
 .header-link{
   color: white;
   font-size: 30px;
-  float: left;
-  margin-right: 60px;
-  text-decoration: none;
   line-height: 125px;
+  margin-right: 60px;
+  float: left;
+  text-decoration: none;
 }
 
 .main{
   padding: 120px 60px;
+  font-family: sans-serif;
   display: flex;
   justify-content: space-between;
-  font-family: sans-serif;
 }
 
 .left{
