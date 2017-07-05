@@ -1,5 +1,4 @@
 .main{
-  width: 100%;
   background: lightGrey;
   padding: 60px 100px;
   font-family: sans-serif;
@@ -55,9 +54,9 @@
 .footer-link{
   color: white;
   font-size: 30px;
+  font-family: sans-serif;
   line-height: 125px;
   margin-left: 75px;
   float: right;
   text-decoration: none;
-  font-family: sans-serif;
 }

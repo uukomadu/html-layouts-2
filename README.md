@@ -45,7 +45,7 @@ Below are the very broad directions to finishing the clone of the image in the '
   * solution
 * Inside index.html, link the index.html file to the style.css file.
   * solution
-* Inside `index.html`, link the index.html file to the reset.css file.
+* Inside index.html, link the index.html file to the reset.css file.
   * solution
 * Inside index.html, create a div that will act as the wrapper for all the content on the page. Give this element a class name and close the element. The rest of the elements will be put inside this div.
 * Inside index.html, create a section and don't forget to close the section. Give the section element a class name to be able to style it later.
@@ -58,7 +58,7 @@ Below are the very broad directions to finishing the clone of the image in the '
   * solution
 * Inside index.html, below the paragraph's create a section. Give this section a class name and don't forget to close the section.
   * solution
-* INside index.html, inside the section you created in the previous step create two divs and give each a unique class name. Now reuse the class you used to differentiate the previous section's divs by background color to their corresponding div.
+* Inside index.html, inside the section you created in the previous step create two divs and give each a unique class name. Now reuse the class you used to differentiate the previous section's divs by background color to their corresponding div.
   * solution
 * Inside index.html, create another section. Give this section a class name and close the section.
   * solution
@@ -117,10 +117,57 @@ Below are the very broad directions to finishing the clone of the image in the '
 ### Follow Along
 
 * Open `index.html`.
+* Inside index.html, create your index.html boiler plate.
+  * solution
+* Inside index.html, link the index.html file to the style.css file.
+  * solution
+* Inside index.html, link the index.html file to the reset.css file. Make sure it comes before your style.css file.
+  * solution
+* Inside index.html, create a main section. Don't forget the closing tag.
+  * solution
+* Inside index.html, inside the main section create two sections and give both a different class name so that we can differentiate them.
+  * solution
+* Inside index.html, inside the first section you created in the previous step create a paragraph. Give it a class name.
+  * solution
+* Inside index.html, inside the same section you used in the previous step create a div that will house the two button. Give it a class name.
+  * solution
+* Inside index.html, inside the div that will house your buttons, create two button elements and give them one similar class name and another unique class name to differentiate them by class name.
+  * solution
+* Inside index.html, inside the second section in the main create an image and give it class and src to a image of your choice. Don't forget to always give an image a alt value.
+  * solution
+* Inside index.html, inside the same section worked on in the previous step create a paragraph and give the same class name as the previous paragraph you created.
+  * solution
+* Inside index.html, outside the main section create a footer and give it a class name to be able to style it later.
+  * solution
+* Inside index.html, inside the footer create two anchor tags. The first anchor tag should display the text "Google" and have a href pointing to the Google homepage. The second should display the text "Apple" and have a href pointing to the Apple homepage. Give them both the same class name.
+  * solution
+* Open style.css
+* Inside style.css, select the main section by class and give it a background color, padding, and font-family.
+  * solution
+* Inside style.css, select the first section by class and give it a background color, padding, and a margin to keep space between it and the elements below it.
+  * solution
+* Inside style.css, select the text by class and give it a font-size, line-height, and a margin to keep space between it and the elements below it.
+  * solution
+* Inside style.css, select the buttons by their similar class and give them a height, width, font color, font size, and a margin to keep some space between them. Optional: give it a border of none to erase the default border.
+  * solution
+* Inside style.css, select each of the buttons separately by the class name that specifies their background color and assign it a property that will change the button's background color.
+  * solution
+* Inside style.css, select the second section by class and give it a background color, padding, and a margin to keep space between it and the elements below it.
+  * solution
+* Inside style.css, select the image by class and give it a width and margin to keep space between it and the elements below it. NOTE: We do not have to assign the image a height because the default value of height is `auto`. This will make the image stay proportional.
+  * solution
+* Inside style.css, select the footer by class and give it a height, width, background color, and padding.
+  * solution
+* Inside style.css, select the anchors in the footer by class and give them a font color, font size, font-family, line height, and margin. Take of the default text decoration on the links and give them a property to make them move to the right side of the page.
+  * solution
 
 ### Solution
 
+
+
 ## Third
+
+
 
 ### Directions
 
