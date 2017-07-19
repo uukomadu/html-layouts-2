@@ -1,0 +1,68 @@
+.wrapper{
+  padding: 50px 30px;
+}
+
+.top-boxes{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.top-box{
+  width: 31%;
+  height: 200px;
+}
+
+.red{
+  background: #D0021B;
+}
+
+.blue{
+  background: #4A90E2;
+}
+
+.black{
+  background: #4A4A4A;
+}
+
+.text{
+  font-family: sans-serif;
+  font-size: 30px;
+  line-height: 40px;
+  margin-bottom: 50px;
+}
+
+.middle-boxes{
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.middle-red-box{
+  height: 500px;
+  width: 33%;
+}
+
+.middle-blue-box{
+  height: 500px;
+  width: 77%;
+}
+
+.bottom-boxes{
+  display: flex;
+}
+
+.bottom-blue-box{
+  width: 70%;
+  height: 200px;
+}
+
+.bottom-red-box{
+  width: 30%;
+  height: 200px;
+}
+
+.bottom-black-box{
+  width: 70%;
+  height: 100%;
+  margin: auto;
+}
